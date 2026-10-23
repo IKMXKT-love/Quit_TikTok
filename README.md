@@ -1,6 +1,6 @@
 # 🚫 Quit TikTok (短视频防沉迷锁)
 
-> 斩断无意识的信息信息流摄入，夺回你对时间的绝对掌控权。
+> 斩断无意识的信息流摄入，夺回你对时间的绝对掌控权。
 
 Quit TikTok 是一款极其硬核的 Android 端短视频防沉迷应用。它抛弃了温和的“提醒”模式，采用强有力的限制机制，帮助使用者戒断对短视频（如抖音、TikTok等）的依赖，将节省下来的精力投入到更有价值的深度学习与真实生活中。
 
@@ -29,14 +29,18 @@ Quit TikTok 是一款极其硬核的 Android 端短视频防沉迷应用。它�
 
 1. 克隆本项目到本地：
    ```bash
-   git clone [https://github.com/Lvasi/Quit_TikTok.git](https://github.com/Lvasi/Quit_TikTok.git)
+   git clone https://github.com/IKMXKT-love/Quit_TikTok.git
    ```
 2. 使用 Android Studio 打开本项目所在文件夹。
 3. 等待 Gradle 自动同步依赖（首次可能需要几分钟）。
 4. 连接你的 Android 手机（开启 USB 调试模式）或使用模拟器，点击 Run 按钮即可编译安装。
 
-🤝 参与贡献 (Contributing)
+
+## 🤝 参与贡献 (Contributing)
+
 欢迎提交 Pull Request 来优化应用性能或增加新的自律约束机制。如有 Bug 反馈，请提交 Issue。
-📄 开源协议 (License)
-本项目基于 MIT License 开源。
+
+## 📄 开源协议 (License)
+
+本项目基于 MIT License 开源，见 [LICENSE](LICENSE)。
    
